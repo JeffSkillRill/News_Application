@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashscreen_fragment">
+
+    <fragment
+        android:id="@+id/splashscreen_fragment"
+        android:name="com.example.myapplication.splashscreen_fragment"
+        android:label="fragment_splashscreen_fragment"
+        tools:layout="@layout/fragment_splashscreen_fragment" >
+        <action
+            android:id="@+id/action_splashscreen_fragment_to_news_Fragment2"
+            app:destination="@id/news_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/news_Fragment"
+        android:name="com.example.myapplication.News_Fragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+</navigation>
