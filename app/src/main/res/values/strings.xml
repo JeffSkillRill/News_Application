@@ -2,4 +2,6 @@
     <string name="app_name">My Application</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="demo_news">Makron va fon der Lyayyen Pekinda Si Jinping bilan uchrashadi</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vel lobortis sapien. Donec facilisis placerat faucibus. Cras et scelerisque risus, quis elementum nulla. Cras pulvinar metus justo, ac dignissim erat placerat a. Ut volutpat bibendum nunc, a sagittis turpis. Pellentesque mi magna, fringilla rutrum volutpat sed, dapibus dapibus nulla. Phasellus imperdiet pharetra pellentesque. Aenean elementum risus in faucibus fermentum. Donec vel aliquet velit, sed volutpat mauris. Vestibulum vitae ligula eu libero semper tincidunt at eu justo. Etiam elementum dui dignissim dapibus viverra. Quisque in fermentum elit, at aliquet tellus.</string>
 </resources>
